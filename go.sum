@@ -1,0 +1,8 @@
+github.com/creack/pty v1.1.11 h1:07n33Z8lZxZ2qwegKbObQohDhXDQxiMMz1NOUGYlesw=
+github.com/creack/pty v1.1.11/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
+github.com/iamacarpet/go-winpty v1.0.2 h1:jwPVTYrjAHZx6Mcm6K5i9G4opMp5TblEHH5EQCl/Gzw=
+github.com/iamacarpet/go-winpty v1.0.2/go.mod h1:/GHKJicG/EVRQIK1IQikMYBakBkhj/3hTjLgdzYsmpI=
+github.com/wzshiming/loginshell v0.0.0-20201022154826-c29f6c7b27ce h1:Wn9hZq6UJOOWmYfDLVc6KGC+7QNSH+dGs17Qu7WiUoI=
+github.com/wzshiming/loginshell v0.0.0-20201022154826-c29f6c7b27ce/go.mod h1:navCCsIdAoJ9hXfbeWxhYzHHNt0uoAGaRwSXSwZd99Q=
+golang.org/x/sys v0.0.0-20201024132449-ef9fd89ba245 h1:GGQcbpn3KsnwsPvzzr1mDsTriyvGNKi9eo2lG3N8YdM=
+golang.org/x/sys v0.0.0-20201024132449-ef9fd89ba245/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
